@@ -12,6 +12,9 @@ Some core points to consider:
 - Put some small resistance in series and just route as a microstrip network.  On 2layer FR4, 62mil/1.6mm that's like 50ohms, 33ohms on a 4layer.  But it's not critical.  It just has something there to absorb any reflections.  The clock for SPDIF is embedded in the signal, so no need for anything special for matching trace lengths.
 - Suggestion for [switching IC](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4781-MAX4783.pdf) (not final).
 
+#### Circuit for push buttons
+![image](https://github.com/eSpark-Consultants/junaidalam-audioswitch/assets/76909080/60b10f06-bb25-40a1-aa02-f5d6d28b3da0)
+
 ### Concept Diagram
 ![image](https://github.com/eSpark-Consultants/junaidalam-audioswitch/assets/76909080/a2300307-ac70-4dee-9ab1-f8c6109e32e1)
 
