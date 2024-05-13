@@ -13,4 +13,7 @@ Some core points to consider:
 - Suggestion for [switching IC](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4781-MAX4783.pdf) (not final).
 
 ### Concept Diagram
-![image](https://github.com/eSpark-Consultants/junaidalam-audioswitch/assets/76909080/e410e988-97c0-4639-99cf-3aef5f5c43f1)
+![image](https://github.com/eSpark-Consultants/junaidalam-audioswitch/assets/76909080/a2300307-ac70-4dee-9ab1-f8c6109e32e1)
+
+### General Block Diagram
+![image](https://github.com/eSpark-Consultants/junaidalam-audioswitch/assets/76909080/ea809823-236d-4f58-9fc1-0044e1ad6a07)
