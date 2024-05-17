@@ -218,6 +218,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKMDQPQB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Audio-Switch-v1.0\Design Rule Check - Audio-Switch-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
