@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Audio-Switch-v1.0.PcbDoc   20/05/2024  4:20:42 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Audio-Switch-v1.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             263       PTH        1075.88mm (42.36inch)
+T2      0.82mm (32mil)                                            Round             15        PTH        65.85mm (2.59inch)
+T3      0.9mm (35mil)                                             Round             6         PTH        14.38mm (0.57inch)
+T4      1.12mm (44mil)                                            Round             10        PTH        65.85mm (2.59inch)
+T5      3mm (118mil)                                              Round             4         PTH        307.63mm (12.11inch)
+T6      1.6mm (63mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T7      1.8mm (71mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              300
+
+Total Processing Time (hh:mm:ss) : 00:00:00
